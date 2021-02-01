@@ -2,6 +2,11 @@
 
 Welcome to the API Gateway aplication. This app works as a gateway between users and internal APIs for manage cars and billets.
 
+## Class Diagram
+
+[Application class diagram](classDiagram/class_diagram.png)
+
+
 ## Running locally
 
 ### Dependencies
